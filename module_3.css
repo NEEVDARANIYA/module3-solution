@@ -1,0 +1,52 @@
+.nav navbar-nav{
+	text-align: center;
+}
+h1{
+	text-align: center;
+	font-size: 30px;
+}
+p{
+	box-sizing: border-box;
+	clear: right;
+}
+.a1{
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 0px;
+}
+.a2{
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 0px;
+}
+.a3{
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 0px;
+}
+.div1{
+	border: 1px solid black;
+	margin: auto;
+	margin:30px;
+	font-size: 20px;
+	background-color: lightgrey;
+}
+.div2{
+	border: 1px solid black;
+	margin: auto;
+	margin:30px;
+	font-size: 20px;
+	background-color: lightblue;
+}
+.div3{
+	border: 1px solid black;
+	margin: auto;
+	margin:30px;
+	font-size: 20px;
+	background-color: lightpink;
+}
+#p1, #p2, #p3{
+	text-align: center;
+	font-weight: bold;
+	font-size: 25px;
+}
